@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR3ec055/jc/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷七人部發味苦平入足少陰厥陰經功專止血通淋得龜板芎歸治交骨不開得豬膏治陰吹小兒驚熱合雞子黃煎為汁服鼻衄吹鼻皂莢水洗淨入罐固煆存性一名血餘牙齒味鹹熱有毒入手足太陰經功專治痘瘡倒黶以豶豬血調下一錢若服涼藥而血澀倒陷者加麝香少許酒服煅退火毒研細水飛用人中黃味甘寒入手足陽明經功專清痰火消食積大解五臟實熱治陽毒熱狂痘瘡血熱黑陷不起傷寒非陽明實熱痘瘡非紫黑乾枯均禁金汁主治同人中黃一名糞清人中白味鹹涼入手太陰經功專降火散瘀治肺瘀鼻衄勞熱消渴痘瘡倒陷牙疳口瘡得麻仁阿膠治血虛便閉得雞矢治蜘蛛咬毒陽虛無火食不消腸不實者忌之又名溺白垽煅用童便味鹹寒入手太陰經功專潤肺清瘀治肺痿失音吐衄損傷胞衣不下產後血暈敗血入肺陰虛火嗽火熱如燎者惟此可治當熱飲或入薑汁行痰韭汁散瘀冬月熱湯溫之秋石味鹹入足少陰經功專滋腎水養丹田得乳粉能固元陽延年不老得茯苓菟絲治遺濁得茯苓蓮肉芡實棗肉治色欲過度遺精小便數食物中用腫脹代鹽乳汁味甘鹹入手足太陰陽明太陽經功專潤五臟補血液止消渴澤皮膚漬煩熱理噎膈悅顏色利腸得黃連點赤眼虛寒滑泄胃弱者禁服乳與食同進即成積滯發瀉人乳人參末等分蜜丸名參乳丸大補氣血乳須擇無病婦人者水頓取粉用百蟲入耳以乳滴之即出得梨汁能消痰補虛得酒治卒不能語天癸味鹹入足厥陰經功專治熱病勞復得人乳童便滴入鼻內治瞳神反背紫河車味鹹性溫入手足太陰厥陰經功專大補氣血治一切虛勞損極恍惚失志癲癇以初胎無病婦人而色紫者良洗淨酒蒸焙研得熟地天冬牛膝杜仲補腎益精坎氣稟心腎之氣得當歸麝香治臍汁不幹得乳汁硃砂解胎毒痘患燒末煎服治瘧
+  hash: sha256:53b0a7c3d90fac6af833d502add9b2ccfd6487e9b2fc8ff8fdd175783b2e6891
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec055_jc_007-d12.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3ec055_jc_007-d12d2, level: 2, head_text: 發}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3ec055_jc_007-d12.d2.h1s1}
+  - {type: 'tls:div-end', offset: 68, content: '', id: KR3ec055_jc_007-d12d2}
+  - {type: 'tls:div-start', offset: 68, content: '', id: KR3ec055_jc_007-d12d3, level: 2, head_text: 牙齒}
+  - {type: 'tls:head', offset: 68, content: '', id: KR3ec055_jc_007-d12.d3.h1s1}
+  - {type: 'tls:div-end', offset: 122, content: '', id: KR3ec055_jc_007-d12d3}
+  - {type: 'tls:div-start', offset: 122, content: '', id: KR3ec055_jc_007-d12d4, level: 2, head_text: 人中黃}
+  - {type: 'tls:head', offset: 122, content: '', id: KR3ec055_jc_007-d12.d4.h1s1}
+  - {type: 'tls:div-end', offset: 189, content: '', id: KR3ec055_jc_007-d12d4}
+  - {type: 'tls:div-start', offset: 189, content: '', id: KR3ec055_jc_007-d12d5, level: 2, head_text: 人中白}
+  - {type: 'tls:head', offset: 189, content: '', id: KR3ec055_jc_007-d12.d5.h1s1}
+  - {type: 'tls:div-end', offset: 261, content: '', id: KR3ec055_jc_007-d12d5}
+  - {type: 'tls:div-start', offset: 261, content: '', id: KR3ec055_jc_007-d12d6, level: 2, head_text: 童便}
+  - {type: 'tls:head', offset: 261, content: '', id: KR3ec055_jc_007-d12.d6.h1s1}
+  - {type: 'tls:div-end', offset: 330, content: '', id: KR3ec055_jc_007-d12d6}
+  - {type: 'tls:div-start', offset: 330, content: '', id: KR3ec055_jc_007-d12d7, level: 2, head_text: 秋石}
+  - {type: 'tls:head', offset: 330, content: '', id: KR3ec055_jc_007-d12.d7.h1s1}
+  - {type: 'tls:div-end', offset: 393, content: '', id: KR3ec055_jc_007-d12d7}
+  - {type: 'tls:div-start', offset: 393, content: '', id: KR3ec055_jc_007-d12d8, level: 2, head_text: 乳汁}
+  - {type: 'tls:head', offset: 393, content: '', id: KR3ec055_jc_007-d12.d8.h1s1}
+  - {type: 'tls:div-end', offset: 514, content: '', id: KR3ec055_jc_007-d12d8}
+  - {type: 'tls:div-start', offset: 514, content: '', id: KR3ec055_jc_007-d12d9, level: 2, head_text: 天癸}
+  - {type: 'tls:head', offset: 514, content: '', id: KR3ec055_jc_007-d12.d9.h1s1}
+  - {type: 'tls:div-end', offset: 544, content: '', id: KR3ec055_jc_007-d12d9}
+  - {type: 'tls:div-start', offset: 544, content: '', id: KR3ec055_jc_007-d12d10, level: 2, head_text: 紫河車}
+  - {type: 'tls:head', offset: 544, content: '', id: KR3ec055_jc_007-d12.d10.h1s1}
+  - {type: 'tls:div-end', offset: 642, content: '', id: KR3ec055_jc_007-d12d10}
+metadata:
+  title: 本草撮要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec055.xml
+hash: sha256:8a8795958f492c256bf6c4e7a44886f7a12e970bb781c3bd15a2cface34a0878
