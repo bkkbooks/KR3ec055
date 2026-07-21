@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ec055_000-jc.yaml, hash: 'sha256:4b3a333339afba7448479ba82f83a950bc36386a749b8e8ebdf8540cd25cd0e3'}
+  - {seq: 0, filename: KR3ec055_000-jc.yaml, hash: 'sha256:53d5bf8398832088788bf06365558ad0ea1bfa8d068b883191c2e72d5a25888b'}
   - {seq: 1, filename: KR3ec055_001-jc.yaml, hash: 'sha256:a0e2bcc85e593a0b72061a87dfabff9fdd8b629c69ce53a98bb001f294912684'}
   - {seq: 2, filename: KR3ec055_002-jc.yaml, hash: 'sha256:d4862c4953bfe9ef8d1f23f36b0bbf22812079b9835f796b60f4b409832b4433'}
   - {seq: 3, filename: KR3ec055_003-jc.yaml, hash: 'sha256:4d31c44c33b8ae45a8331bccb58051b05411fff4fa8d1ef14d7b831cd085835b'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR3ec055_009-jc.yaml, hash: 'sha256:1b404f306dfe59247e724f339dfebc26b05ca86cb562a43d32af0edc10dd5693'}
   - {seq: 10, filename: KR3ec055_010-jc.yaml, hash: 'sha256:900af0fcaf85f613ef8909e101ea1009298aba5a679538aef380cb6d2d945046'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec055_000-jc.markers.yaml, hash: 'sha256:37e7dddaa996fc503cc10328dd392b793dda7290197f5a54839ffff59102f23c'}
+  - {seq: 0, role: markers, filename: assets/KR3ec055_000-jc.markers.yaml, hash: 'sha256:94170d48c616a381e82e4072945f88bc52df0f9b82bebadc0c5e5f6f4bd2fd0a'}
   - {seq: 1, role: markers, filename: assets/KR3ec055_001-jc.markers.yaml, hash: 'sha256:5a3c748a405dbdd64e09bef41e1fa2f8a00f864da637384ce3953ce16f6689e6'}
   - {seq: 2, role: markers, filename: assets/KR3ec055_002-jc.markers.yaml, hash: 'sha256:a70646192393d599f9dff3471b9821506ddf1e27850a30af1e57a2395234207e'}
   - {seq: 3, role: markers, filename: assets/KR3ec055_003-jc.markers.yaml, hash: 'sha256:e3f216b4841cd26b90df499cae490191185c3510e71b2e6a3aa4342271b5b8da'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 340
   label: 序一
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 340
     - 630
   label: 序二
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 630
     - 858
   label: 序三
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 858
     - 1199
   label: 自序
@@ -6771,4 +6771,4 @@ table_of_contents:
   label: 孩兒茶
   type: section
   level: 2
-hash: sha256:63eb7ad06da3a9117394288ffc838e867b3c18eaa515b3bd3383d09eca36f57b
+hash: sha256:ed46784baaa7a70265770c612e003b94909747000f44f6f42d8ec82107d80500

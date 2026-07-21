@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec055_000.yaml, hash: 'sha256:9c2ad1da8172af5abf8e630e987107ed78de6d82c3cb5a461f24cc0d8ce52367'}
+  - {seq: 0, filename: KR3ec055_000.yaml, hash: 'sha256:06c45ce2fada80c4fd54bc89a4b8a9ea0268081ac7f70630e87b3c3b82e81268'}
   - {seq: 1, filename: KR3ec055_001.yaml, hash: 'sha256:0c75c72582aa23efc7facd1a7e12daa75b8049914f17335c666a459b52f62600'}
   - {seq: 2, filename: KR3ec055_002.yaml, hash: 'sha256:ea09cdf41f86b35b3a70f656cae385395033fa5d633752d3e53bbdf0a86aee22'}
   - {seq: 3, filename: KR3ec055_003.yaml, hash: 'sha256:c2067a0d43dba93c8a53390898025d86182ee0aa9c2a6aa31702dbc7ffa4a837'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR3ec055_009.yaml, hash: 'sha256:a1d1c6ce4974c7c01f5201e40278085b354b8e80e98b89393abc1ca39e7b7652'}
   - {seq: 10, filename: KR3ec055_010.yaml, hash: 'sha256:7e5bb14b4612fa2e76080e4fa02b39871e9924f17568de711f6d78bac0cceccf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec055_000.markers.yaml, hash: 'sha256:50c0218ab7c904474e7f56994540772496e6a123b2afb417576b3fbc9f5d8ed0'}
+  - {seq: 0, role: markers, filename: assets/KR3ec055_000.markers.yaml, hash: 'sha256:b171305debe212e39c6b83ce1e22c18cf5b1378c392065350ae6f04e1cd15412'}
   - {seq: 1, role: markers, filename: assets/KR3ec055_001.markers.yaml, hash: 'sha256:dbec01b2a1def23497a5ca346de165546d67fc1344244de1de3709dd6c01ae23'}
   - {seq: 2, role: markers, filename: assets/KR3ec055_002.markers.yaml, hash: 'sha256:d6156bd0a4d69fce2b90e557b431bbd44202a5e9ca5a851e1d245767b0ceee3b'}
   - {seq: 3, role: markers, filename: assets/KR3ec055_003.markers.yaml, hash: 'sha256:df33934f998c270172c0078655f17e79e7c3374f6c1e44b373f80465fb572ed5'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 340
   label: 序一
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 340
     - 630
   label: 序二
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 630
     - 858
   label: 序三
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec055_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 858
     - 1199
   label: 自序
@@ -6771,7 +6771,7 @@ table_of_contents:
   label: 孩兒茶
   type: section
   level: 2
-hash: sha256:16640ad6e599d152019322f731fc923b875a00a8e5eeff9d5481ab8c256edbf2
+hash: sha256:78ea0e1435f56fc7060814ae23ef13acea029b1a5ac1be5cd4f95f8eb6a38b3b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
